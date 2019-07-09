@@ -1,5 +1,7 @@
 # fkey.club
 
+[https://fkey.club](https://fkey.club "fkey.club")
+
 ## api
 
 ### bilibili live status:
